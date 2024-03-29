@@ -8,6 +8,7 @@
         <option value="$PROJECT_DIR$/new_publications/pom.xml" />
         <option value="$PROJECT_DIR$/subscriptions/pom.xml" />
         <option value="$PROJECT_DIR$/notifications/pom.xml" />
+        <option value="$PROJECT_DIR$/activity/pom.xml" />
       </list>
     </option>
   </component>
